@@ -29,5 +29,5 @@ see the jupyter notebooks for demos of selecting Jane Austen sentences from a mi
 ## Resources
 
 For KenLM:
-https://yidatao.github.io/2017-05-31/kenlm-ngram/
-http://victor.chahuneau.fr/notes/2012/07/03/kenlm.html
+- https://yidatao.github.io/2017-05-31/kenlm-ngram/
+- http://victor.chahuneau.fr/notes/2012/07/03/kenlm.html

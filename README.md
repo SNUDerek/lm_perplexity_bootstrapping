@@ -4,12 +4,12 @@
 
 use language model perplexity to augment a small domain-specific sentence by selecting 'similar' sentences from an unlabeled corpus (e.g. web-crawled data) using 
 
-based on Ramaswamy, Printz, Gopalakrishnan: *A Bootstrap Technique for Building Domain-Dependent Langauge Models*, available here: http://mirlab.org/conference_papers/International_Conference/ICSLP%201998/PDF/SCAN/SL980611.PDF
+based on Ramaswamy, Printz, Gopalakrishnan: *A Bootstrap Technique for Building Domain-Dependent Language Models*, available here: http://mirlab.org/conference_papers/International_Conference/ICSLP%201998/PDF/SCAN/SL980611.PDF
 
 ## Requirements
 
-`nltk`
-`kenlm` (LM in C++, install python extensions with `setup.py`) 
+- `nltk`
+- `kenlm` (LM in C++, install python extensions with `setup.py`) 
 
 ## Procedure
 

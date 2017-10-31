@@ -9,6 +9,7 @@ based on Ramaswamy, Printz, Gopalakrishnan: *A Bootstrap Technique for Building 
 ## Requirements
 
 `nltk`
+`kenlm` (LM in C++, install python extensions with `setup.py`) 
 
 ## Procedure
 
@@ -23,4 +24,10 @@ terminate when no new sentences are under the threshhold
 
 ## Results
 
-see the jupyter notebook for a demo of selecting Jane Austen sentences from a mixture of sentences from Austen, Lewis Carroll and Herman Melville
+see the jupyter notebooks for demos of selecting Jane Austen sentences from a mixture of sentences from Austen, Lewis Carroll and Herman Melville
+
+## Resources
+
+For KenLM:
+https://yidatao.github.io/2017-05-31/kenlm-ngram/
+http://victor.chahuneau.fr/notes/2012/07/03/kenlm.html
